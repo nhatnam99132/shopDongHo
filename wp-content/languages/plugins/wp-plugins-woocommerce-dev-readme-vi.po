@@ -1,0 +1,700 @@
+# Translation of Plugins - WooCommerce - Development Readme (trunk) in Vietnamese
+# This file is distributed under the same license as the Plugins - WooCommerce - Development Readme (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-07-13 03:11:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - WooCommerce - Development Readme (trunk)\n"
+
+#. Found in description paragraph.
+msgid "WooCommerce is the world’s most popular open-source eCommerce solution."
+msgstr ""
+
+#. Plugin name.
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#. Found in faq paragraph.
+msgid "Check out <a href=\"https://docs.woocommerce.com/document/frequently-asked-questions/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Frequently Asked Questions</a> for more."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Extensive <a href=\"https://woocommerce.github.io/woocommerce-rest-api-docs/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">WooCommerce REST API Documentation</a> is available on GitHub."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes, you can! Join in on our <a href=\"https://github.com/woocommerce/woocommerce/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">GitHub repository</a> and follow the <a href=\"https://woocommerce.wordpress.com/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">development blog</a> to stay up-to-date with everything happening in the project."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Request new features and extensions and vote on existing suggestions on our official <a href=\"https://ideas.woocommerce.com/forums/133476-woocommerce?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">ideas board</a>. Our Product teams regularly review requests and consider them valuable for product planning."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Report bugs on the <a href=\"https://github.com/woocommerce/woocommerce/issues?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">WooCommerce GitHub repository</a>. You can also notify us via our support forum – be sure to search the forums to confirm that the error has not already been reported."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "In both instances, we recommend running a conflict test using <a href=\"https://docs.woocommerce.com/document/troubleshooting-using-health-check/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Health Check</a> (which allows you to disable themes and plugins without affecting your visitors) or troubleshooting the issue using a <a href=\"https://docs.woocommerce.com/document/how-to-test-for-conflicts/#section-3?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">staging site</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you noticed the error after updating a theme or plugin, there might be compatibility issues between it and WooCommerce. If the issue appeared after updating WooCommerce, there could be a conflict between WooCommerce and an outdated theme or plugin."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Start by diagnosing the issue using our helpful <a href=\"https://docs.woocommerce.com/documentation/get-help/troubleshooting-get-help/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">troubleshooting guide</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "We have a detailed guide on <a href=\"https://docs.woocommerce.com/document/how-to-update-woocommerce/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">How To Update WooCommerce</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "Yes! WooCommerce will work with any theme but may require some additional styling. If you’re looking for a theme featuring deep WooCommerce integration, we recommend <a href=\"https://woocommerce.com/storefront/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Storefront</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "First, troubleshoot common login issues using this helpful <a href=\"https://docs.woocommerce.com/document/log-into-woocommerce-com-with-wordpress-com/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">step-by-step guide</a>. Still not working? <a href=\"https://woocommerce.com/contact-us/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Get in touch with us</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "For assistance with paid extensions from the WooCommerce.com Marketplace: first, review our <a href=\"https://docs.woocommerce.com/document/woocommerce-self-service-guide/\">self-service troubleshooting guide</a>. If the problem persists, kindly log a support ticket via <a href=\"https://woocommerce.com/my-account/create-a-ticket/\">our helpdesk</a>. Our dedicated Happiness Engineers aim to respond within 24 hours."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "If you get stuck, you can ask for help in the <a href=\"https://wordpress.org/support/plugin/woocommerce/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">WooCommerce Support Forum</a> by following <a href=\"https://wordpress.org/support/topic/guide-to-the-woocommerce-forum/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">these guidelines</a>, reach out via the <a href=\"https://woocommerce.com/community-slack/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">WooCommerce Community Slack</a>, or post in the <a href=\"https://www.facebook.com/groups/advanced.woocommerce?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">WooCommerce Community group</a> on Facebook."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "For extending or theming WooCommerce, see our <a href=\"https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">codex</a>, as well as the <a href=\"https://docs.woocommerce.com/document/create-a-plugin/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Plugin Developer Handbook</a>."
+msgstr ""
+
+#. Found in faq paragraph.
+msgid "For help setting up and configuring WooCommerce, please refer to <a href=\"https://docs.woocommerce.com/documentation/plugins/woocommerce/getting-started/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Getting Started</a> and the <a href=\"https://woocommerce.com/guides/new-store/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">New WooCommerce Store Owner Guide</a>."
+msgstr ""
+
+#. Found in faq header.
+msgid "My question is not listed here. Where can I find more answers?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I report bugs?"
+msgstr ""
+
+#. Found in faq header.
+msgid "My site broke – what do I do?"
+msgstr ""
+
+#. Found in faq header.
+msgid "How do I update WooCommerce?"
+msgstr ""
+
+#. Found in faq header.
+msgid "I’m having trouble logging in to WooCommerce.com – what now?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I get help for extensions I have purchased on WooCommerce.com?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I get help or talk to other users about WooCommerce Core?"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "WooCommerce is translated into multiple languages, including Danish, Ukrainian, and Persian. Help localize WooCommerce even further by adding your locale – visit <a href=\"https://translate.wordpress.org/projects/wp-plugins/woocommerce/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">translate.wordpress.org</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "WooCommerce is developed and supported by Automattic, the creators of WordPress.com and Jetpack. We also have hundreds of independent contributors, and there’s always room for more. Head to the <a href=\"https://github.com/woocommerce/woocommerce?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">WooCommerce GitHub Repository</a> to find out how you can pitch in."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "WooCommerce also has a regular presence at WordCamps across the globe – we’d love to meet you."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "There are <a href=\"https://woocommerce.com/meetups/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">WooCommerce Meetups</a> in locations around the world that you can attend for free and even get involved in running. These events are a great way to learn from others, share your expertise, and connect with like-minded folks."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "WooCommerce has a large, passionate community dedicated to helping merchants succeed, and it’s growing fast."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "The core platform is tested rigorously and often, supported by a dedicated development team working across time zones. Comprehensive documentation is updated with each release, empowering you to build exactly the store required."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Developers can use WooCommerce to create, customize, and scale a store to meet a client’s exact specifications, making enhancements through extensions or custom solutions."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Unlike hosted eCommerce solutions, WooCommerce store data is future-proof; should you wish to migrate to a different platform, you’re free to export all your content and take your site wherever you choose. No restrictions."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "If you opt to share <a href=\"https://woocommerce.com/usage-tracking/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">usage data</a> with us, you can feel confident knowing that it’s anonymized and kept secure. Choose to opt-out at any time without impacting your store."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "With WooCommerce, your data belongs to you. Always."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Manage your store from anywhere with the free WooCommerce <a href=\"https://woocommerce.com/mobile/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">mobile app</a> (Android and iOS). Spoiler alert: Keep an ear out for the slightly addictive \"cha-ching\" notification sound each time you make a new sale!"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Enhance store functionality with hundreds of free and paid extensions from the <a href=\"https://woocommerce.com/products/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">official WooCommerce Marketplace</a>. Our developers <a href=\"https://docs.woocommerce.com/document/marketplace-overview/#section-6?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">vet each new extension</a> and regularly review existing inventory to maintain Marketplace quality standards. We are actively <a href=\"https://docs.woocommerce.com/document/marketplace-overview/#section-2?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">looking for products that help store builders create successful stores</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Expand your audience across marketing and social channels with <a href=\"https://woocommerce.com/products/google-ads/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Google Ads</a>, <a href=\"https://woocommerce.com/products/hubspot-for-woocommerce/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">HubSpot</a>, <a href=\"https://woocommerce.com/products/mailchimp-for-woocommerce/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Mailchimp</a>, and <a href=\"https://woocommerce.com/products/facebook/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Facebook</a> integrations. You can always check out the in-dashboard <a href=\"https://docs.woocommerce.com/document/marketing-hub/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Marketing Hub</a> for fresh ideas and tips to help you succeed."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "WooCommerce means business. Keep tabs on the performance metrics most important to you with <a href=\"https://wordpress.org/plugins/woocommerce-admin/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">WooCommerce Admin</a> – a powerful, customizable central dashboard for your store."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Built-in tools and popular integrations help you efficiently manage your business operations. Many services are free to add with a single click via the optional <a href=\"https://docs.woocommerce.com/document/woocommerce-setup-wizard/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Setup Wizard</a>."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Whether you’re launching a business, taking brick-and-mortar retail online, or developing sites for clients, use WooCommerce for a store that powerfully blends content and commerce."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "Our core platform is free, flexible, and amplified by a global community. The freedom of open-source means you retain full ownership of your store’s content and data forever."
+msgstr ""
+
+#. Found in description list item.
+msgid "Speed up development with a lightning-fast <a href=\"https://woocommerce.github.io/code-reference/classes/wc-cli-rest-command.html?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">CLI</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://docs.woocommerce.com/documentation/plugins/woocommerce/woocommerce-codex/extending/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Inspect and modify</a> any aspect of the core plugin code."
+msgstr ""
+
+#. Found in description list item.
+msgid "Design and build custom content blocks with React."
+msgstr ""
+
+#. Found in description list item.
+msgid "Integrate virtually any service using a robust <a href=\"https://docs.woocommerce.com/document/woocommerce-rest-api/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">REST API</a> and webhooks."
+msgstr ""
+
+#. Found in description list item.
+msgid "Leverage <a href=\"https://docs.woocommerce.com/document/introduction-to-hooks-actions-and-filters/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">hooks and filters</a> to modify or create functionality."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Simplify sales tax</strong>. Add <a href=\"https://woocommerce.com/products/tax/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">WooCommerce Tax</a> or <a href=\"https://woocommerce.com/product-category/woocommerce-extensions/tax?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">similar integrated services</a> to make automated calculations a reality."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Configure your shipping options</strong>. Print USPS labels right from your dashboard and even schedule a pickup with <a href=\"https://woocommerce.com/products/shipping/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">WooCommerce Shipping</a> (U.S.-only). Connect with <a href=\"https://woocommerce.com/product-category/woocommerce-extensions/shipping-methods/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">well-known carriers</a> such as UPS, FedEx, and ShipStation – plus a wide variety of delivery, inventory, and fulfillment solutions for your locale."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Choose how you want to get paid</strong>. Conveniently manage payments from the comfort of your store with <a href=\"https://woocommerce.com/payments/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">WooCommerce Payments</a> (U.S.-only). Securely accept cards, mobile wallets, bank transfers, and cash thanks to <a href=\"https://woocommerce.com/product-category/woocommerce-extensions/payment-gateways/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">100+ payment gateways</a> – including <a href=\"https://woocommerce.com/products/stripe/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Stripe</a>, <a href=\"https://woocommerce.com/products/woocommerce-gateway-paypal-checkout/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">PayPal</a>, and <a href=\"https://woocommerce.com/products/square/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Square</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Rise to the top of search results</strong> by leveraging <a href=\"https://www.searchenginejournal.com/wordpress-best-cms-seo/\">WordPress’ SEO advantage</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "Showcase physical and digital goods, product variations, custom configurations, instant downloads, and affiliate items. <a href=\"https://woocommerce.com/products/woocommerce-bookings/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">Bookings</a>, <a href=\"https://woocommerce.com/products/woocommerce-memberships/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">memberships</a>, <a href=\"https://woocommerce.com/products/woocommerce-subscriptions/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">subscriptions</a>, and <a href=\"https://woocommerce.com/products/dynamic-pricing/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">dynamic pricing</a> rules are only an extension away."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Customize pages in minutes</strong> using modular <a href=\"https://docs.woocommerce.com/document/woocommerce-blocks/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">product blocks</a>."
+msgstr ""
+
+#. Found in description list item.
+msgid "<strong>Create beautiful, enticing storefronts</strong> with <a href=\"https://woocommerce.com/product-category/themes/?utm_medium=referral&amp;utm_source=wordpress.org&amp;utm_campaign=wp_org_repo_listing\">themes</a> suited to your brand and industry."
+msgstr ""
+
+#. Found in description header.
+msgid "Contribute and translate"
+msgstr ""
+
+#. Found in description header.
+msgid "Be part of our growing international community"
+msgstr ""
+
+#. Found in description header.
+msgid "Why developers choose (and love) WooCommerce"
+msgstr ""
+
+#. Found in description header.
+msgid "Own and control your store data – forever"
+msgstr ""
+
+#. Found in description header.
+msgid "Grow your business, add features, and monitor your store on the go"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "WooCommerce comes with some sample data you can use to see how products look; import sample_products.xml via the <a href=\"https://wordpress.org/plugins/wordpress-importer/\">WordPress importer</a>. You can also use the core <a href=\"https://docs.woocommerce.com/document/product-csv-importer-exporter/?utm_source=wp%20org%20repo%20listing&amp;utm_content=3.6\">CSV importer</a> or our <a href=\"https://woocommerce.com/products/product-csv-import-suite/?utm_source=wp%20org%20repo%20listing&amp;utm_content=3.6\">CSV Import Suite extension</a> to import sample_products.csv"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Automatic updates should work smoothly, but we still recommend you back up your site."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "In the search field type “WooCommerce,” then click “Search Plugins.” Once you’ve found us,  you can view details about it such as the point release, rating, and description. Most importantly of course, you can install it by! Click “Install Now,” and WordPress will take it from there."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Visit the <a href=\"https://docs.woocommerce.com/document/server-requirements/?utm_source=wp%20org%20repo%20listing&amp;utm_content=3.6\">WooCommerce server requirements documentation</a> for a detailed list of server requirements."
+msgstr "Truy cập <a href=\"https://docs.woocommerce.com/document/server-requirements/?utm_source=wp%20org%20repo%20listing&amp;utm_content=3.6\">Yêu cầu cài đặt WooCommerce</a> để biết cụ thể yêu cầu cho server của bạn."
+
+#. Found in installation list item.
+msgid "MySQL 5.6 or greater is recommended"
+msgstr "MySQL 5.6 hoặc cao hơn"
+
+#. Found in installation list item.
+msgid "PHP 7.2 or greater is recommended"
+msgstr "PHP 7.2 hoặc cao hơn"
+
+#. Found in installation header.
+msgid "Sample data"
+msgstr ""
+
+#. Found in faq header.
+msgid "WooCommerce is awesome! Can I contribute?"
+msgstr "WooCommerce thật tuyệt vời! Tôi có thể tham gia đóng góp không?"
+
+#. Found in faq header.
+msgid "Where can I find REST API documentation?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Where can I request new features, themes, and extensions?"
+msgstr ""
+
+#. Found in faq header.
+msgid "Will WooCommerce work with my theme?"
+msgstr "WooCommerce sẽ hoạt động tốt với giao diện của tôi?"
+
+#. Found in faq header.
+msgid "Where can I find WooCommerce documentation and user guides?"
+msgstr "Tôi có thể tìm tài liệu và hướng dẫn sử dụng ở đâu?"
+
+#. Found in installation paragraph.
+msgid "If you encounter issues with the shop/category pages after an update, flush the permalinks by going to WordPress &gt; Settings &gt; Permalinks and hitting “Save.” That should return things to normal."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Manual installation method requires downloading the WooCommerce plugin and uploading it to your web server via your favorite FTP application. The WordPress codex contains <a href=\"https://wordpress.org/support/article/managing-plugins/#manual-plugin-installation\">instructions on how to do this here</a>."
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Automatic installation is the easiest option -- WordPress will handles the file transfer, and you won’t need to leave your web browser. To do an automatic install of WooCommerce, log in to your WordPress dashboard, navigate to the Plugins menu, and click “Add New.”"
+msgstr ""
+
+#. Found in installation header.
+msgid "Updating"
+msgstr "Đang cập nhật"
+
+#. Found in installation header.
+msgid "Manual installation"
+msgstr "Manual installation"
+
+#. Found in installation header.
+msgid "Automatic installation"
+msgstr "Cài đặt tự động"
+
+#. Found in installation header.
+msgid "Minimum Requirements"
+msgstr "Yêu cầu tối thiểu"
+
+#. Found in changelog list item.
+msgid "Fix: Bug where sometimes the task list would not vanish after being completed #5205"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Enlarged store profiler text in two steps #5194"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Remove product settings video note #5213"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Store Profiler - Industry step: reduced padding and removed industry #5157"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>WooCommerce Blocks - 3.2.0, 3.3.0 and 3.4.0</strong>"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>WooCommerce Admin - 1.6.0</strong>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Merge ProductPrice atomic block and component. (<a href=\"https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/3065\">3065</a>)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Create DebouncedValidatedTextInput component. (<a href=\"https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/3108\">3108</a>)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Use wp_login_url instead of hardcoding login path. (<a href=\"https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/3090\">3090</a>)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix product reviews schema date fields to use new (WP 5.5) <code>date-time</code> format. (<a href=\"https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/3109\">3109</a>)"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed styling options of the Product Title block (in All Products). <a href=\"https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/3095\">3095</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improve behaviour of draft order cleanup to account for clobbered custom shop order status. <a href=\"https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/2912\">#2912</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Deprecate wc.wcSettings.setSetting function. <a href=\"https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/3010\">#3010</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved focus styles of error states on form elements. <a href=\"https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/2974\">#2974</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixes a styling issue in the Product Search block in the editor. <a href=\"https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/3014\">#3014</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed an issue that was making some blocks not to render correctly in the Empty cart template. <a href=\"https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/2904\">#2904</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix an undefined variable PHP notice related to Product REST API. <a href=\"https://github.com/woocommerce/woocommerce-gutenberg-products-block/pull/2962\">#2962</a>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Force float before addition in taxes #5149"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Search all variation attribute values #5141"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Card to connect to woocommerce.com #5129"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Show full variation name in products report #5056"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Advanced filters screen reader text #5032"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Note data actions and consolidate query constants #4990"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Typo in reports store action creators #4992"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Text domains in stock report #4980"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Dependency declarations in woocommerce/components #4972"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix: Table componenbt onQueryChange default prop #4959"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Add opt-out for remote inbox #5162"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Enable remote inbox in all envs #5160"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Enable homescreen for all sites #5108"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Add option to not charge sales tax in setup checklist #5111"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Remove chevron icons from Fish Setup task list #5114"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: OBW style updates #5059"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Add monthly pricing toggle in OBW #5015"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Refactor task list status to onboarding data store #4998"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Refactor header component to function #5023"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Replace useFilters with WP withFilters #4962"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Group tasks by completion in setup checklist #5001"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Orders panel get selectors form wc-api #4997"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Use filtered headers array in onColumnsChange callback #4964"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Don't import from React, use @wordpress/element #4978"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak: Remove payment task actions #4917"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Add product attribute filter to Orders report #5068"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Automated taxes smart default #5076"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Add support for advanced filters with multiple instances #5050"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Add Product Attribute advanced filter #5038"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Add WooCommerce Mobile Banner #5037"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Add filter to allow modification of report columns #4984"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Add woocommerce/tracks pacakage #5107"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Enhancement: Add free local shipping zone on profile complete #4857"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Don't include \"min\" suffix in build JS files for core build #5130"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Add filters for columns in reports #5134"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Combine translation chunks when languages updated #5094"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Add initial e2e test suite #5028"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Remove <code>fresh-data</code> wc-api dependency #5075"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Import wp.data store #4982"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Items wp.data store #5009"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Remove _experimentalResolveSelect usage #4949"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Exports wp.data store #4958"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Remove unused lib/date #4987"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Add woocommerce_analytics_update_order_stats_data filter #4934"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Notes wp.data store #4943"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev: Reviews wp.data store #4941"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Fixed the name of the Spain state of <code>Biscay</code>. #27548"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add KR locale info. #27496"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Adding states for Benin country. #27217"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Updated name for the Hungarian county called Csongrád-Csanád. #27075"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Add Egypt regions. #27495"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Localization - Remove duplicated entry for Cyprus when listing countries by continent. #27636"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev - Fix and improve documentation of wc_string_to_bool and wc_bool_to_string. #27662"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev - New action 'woocommerce_after_order_details' added in a order-details.php template. #26327"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev - Add <code>woocommerce_should_send_no_stock_notification</code> filter. #27634"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev - Allow public access to core capabilities for other plugins. #26976"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev - Fixed duplicated use of <code>woocommerce_add_$notice_type</code>. #27437"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev - Changed relative <code>include</code> paths to absolute <code>include</code> paths using <code>__DIR__</code>. #27433"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev - Introduced <code>woocommerce_cart_item_required_stock_is_not_enough</code> filter. #26196"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Typo in the error message shown in the customizer. #27008"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Prevent fatal errors when trying to determine what is the product type taxonomy term. #27441"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Added WP environment type to tracker. #27685"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Paypal gateway: protect code against a fatal error if WooCommerce is unable to communicate with PayPal. #27616"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Fix bug when using tax classes with some non-ASCII characters. #27615"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Encapsulate scope of <code>c</code> variable to avoid polluting the global scope and potentially causing problems if other plugins use the same variable name. #27610"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Adding missing css property to email templates to ensure header background color is less likely to be overridden by email client. #27525"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Fix white space character in add-to-cart script. #27459"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Fix PHP docblock summary to properly reflect the role of <code>wc_get_coupon_id_by_code</code> function. #27453"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Remove \"There are no notes yet\" after adding the first one by AJAX. #27449"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Fixed countries list sorting and added support to PHP internationalization functions. #27416"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - Several style improvements to notices in theme Twenty Twenty. #27387"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix - When adding a grouped product to the cart, quantity is passed through the <code>woocommerce_stock_amount</code> filter like it's done for simple and variable products. #27219"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Add WC pages when the plugin is activated now that the old setup wizard was deprecated. #26853"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Deprecate old setup wizard. #26853"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Tweak - Removed the \"Features\" settings page now that the WooCommerce Admin dashboard is enabled by default. #27047"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<strong>WooCommerce</strong>"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Dev - Introduced <code>woocommerce_return_to_shop_text</code> filter. #25419"
+msgstr ""
+
+#. Found in changelog paragraph.
+msgid "<a href=\"https://raw.githubusercontent.com/woocommerce/woocommerce/master/changelog.txt\">See changelog for all versions</a>."
+msgstr ""
